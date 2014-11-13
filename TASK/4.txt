@@ -1,0 +1,3 @@
+CustomerId  FirstName   LastName    Company     Address            City        State       Country         PostalCode  Phone              Fax         Email                   SupportRepId
+----------  ----------  ----------  ----------  -----------------  ----------  ----------  --------------  ----------  -----------------  ----------  ----------------------  ------------
+52          Emma        Jones                   202 Hoxton Street  London                  United Kingdom  N1 5LH      +44 020 7707 0707              emma_jones@hotmail.com  3           

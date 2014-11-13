@@ -1,0 +1,1 @@
+SELECT t.Name, t.Composer, g.Name, i.InvoiceDate FROM Invoice i INNER JOIN InvoiceLine l INNER JOIN Track t INNER JOIN Genre g ON i.InvoiceId=l.InvoiceId AND l.TrackId=t.TrackId AND t.GenreId=g.GenreId WHERE i.InvoiceDate = '2013-11-13 00:00:00';

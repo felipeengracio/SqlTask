@@ -1,0 +1,7 @@
+BillingCountry  COUNT(BillingCountry)
+--------------  ---------------------
+USA             91                   
+Canada          56                   
+Brazil          35                   
+France          35                   
+Germany         28                   

@@ -1,0 +1,1 @@
+SELECT DISTINCT c.FirstName, c.LastName, c.State FROM Invoice i INNER JOIN Customer c ON i.CustomerId = c.CustomerId WHERE c.City IN (SELECT BillingCity FROM Invoice GROUP BY BillingCity HAVING COUNT(BillingState)>10);

@@ -1,0 +1,44 @@
+InvoiceId   CustomerId  InvoiceDate          BillingAddress  BillingCity  BillingState  BillingCountry  BillingPostalCode  Total     
+----------  ----------  -------------------  --------------  -----------  ------------  --------------  -----------------  ----------
+381         54          2013-08-04 00:00:00  110 Raeburn Pl  Edinburgh                  United Kingdom  EH4 1HH            5.94      
+397         27          2013-10-13 00:00:00  1033 N Park Av  Tucson       AZ            USA             85719              13.86     
+405         20          2013-11-21 00:00:00  541 Del Medio   Mountain Vi  CA            USA             94040-111          0.99      
+375         22          2013-07-07 00:00:00  120 S Orange A  Orlando      FL            USA             32801              8.91      
+384         24          2013-08-20 00:00:00  162 E Superior  Chicago      IL            USA             60611              0.99      
+407         23          2013-12-04 00:00:00  69 Salem Stree  Boston       MA            USA             2113               1.98      
+406         21          2013-12-04 00:00:00  801 W 4th Stre  Reno         NV            USA             89503              1.98      
+396         18          2013-10-08 00:00:00  627 Broadway    New York     NY            USA             10012-2612         8.91      
+354         26          2013-04-05 00:00:00  2211 W Berry S  Fort Worth   TX            USA             76110              8.91      
+363         28          2013-05-19 00:00:00  302 S 700 E     Salt Lake C  UT            USA             84102              0.99      
+298         17          2012-07-31 00:00:00  1 Microsoft Wa  Redmond      WA            USA             98052-8300         10.91     
+408         25          2013-12-05 00:00:00  319 N. Frances  Madison      WI            USA             53703              3.96      
+326         51          2012-12-02 00:00:00  Celsiusg. 9     Stockholm                  Sweden          11230              8.91      
+402         50          2013-11-05 00:00:00  C/ San Bernard  Madrid                     Spain           28015              5.94      
+410         35          2013-12-09 00:00:00  Rua dos Campe�  Porto                      Portugal                           8.91      
+356         49          2013-04-18 00:00:00  Ordynacka 10    Warsaw                     Poland          00-358             0.99      
+392         4           2013-10-03 00:00:00  Ullevålsveien  Oslo                       Norway          0171               1.98      
+390         48          2013-09-12 00:00:00  Lijnbaansgrach  Amsterdam    VV            Netherlands     1016               13.86     
+347         47          2013-03-05 00:00:00  Via Degli Scip  Rome         RM            Italy           00192              8.91      
+401         46          2013-11-04 00:00:00  3 Chatham Stre  Dublin       Dublin        Ireland                            3.96      
+412         58          2013-12-22 00:00:00  12,Community C  Delhi                      India           110017             1.99      
+377         45          2013-07-20 00:00:00  Erzsébet krt.  Budapest                   Hungary         H-1073             0.99      
+367         37          2013-06-03 00:00:00  Berger Straße  Frankfurt                  Germany         60316              5.94      
+399         42          2013-11-03 00:00:00  9, Place Louis  Bordeaux                   France          33000              1.98      
+411         44          2013-12-14 00:00:00  Porthaninkatu   Helsinki                   Finland         00530              13.86     
+340         9           2013-02-02 00:00:00  Sønder Boulev  Copenhagen                 Denmark         1720               8.91      
+404         6           2013-11-13 00:00:00  Rilská 3174/6  Prague                     Czech Republic  14300              25.86     
+314         57          2012-10-14 00:00:00  Calle Lira, 19  Santiago                   Chile                              0.99      
+362         14          2013-05-11 00:00:00  8210 111 ST NW  Edmonton     AB            Canada          T6G 2C7            13.86     
+328         15          2012-12-15 00:00:00  700 W Pender S  Vancouver    BC            Canada          V6C 1G8            0.99      
+342         32          2013-02-15 00:00:00  696 Osborne St  Winnipeg     MB            Canada          R3L 2B9            0.99      
+376         31          2013-07-12 00:00:00  194A Chain Lak  Halifax      NS            Canada          B3S 1C5            13.86     
+388         33          2013-09-04 00:00:00  5112 48 Street  Yellowknife  NT            Canada          X1A 1N6            5.94      
+409         29          2013-12-06 00:00:00  796 Dundas Str  Toronto      ON            Canada          M6J 1V1            5.94      
+391         3           2013-09-20 00:00:00  1498 rue Béla  Montréal    QC            Canada          H2G 1A7            0.99      
+319         13          2012-11-01 00:00:00  Qe 7 Bloco G    Brasília    DF            Brazil          71020-677          8.91      
+395         12          2013-10-05 00:00:00  Praça Pio X,   Rio de Jane  RJ            Brazil          20040-020          5.94      
+383         10          2013-08-12 00:00:00  Rua Dr. Falcã  São Paulo   SP            Brazil          01007-010          13.86     
+394         8           2013-10-04 00:00:00  Grétrystraat   Brussels                   Belgium         1000               3.96      
+370         7           2013-06-19 00:00:00  Rotenturmstra�  Vienne                     Austria         1010               0.99      
+305         55          2012-08-31 00:00:00  421 Bourke Str  Sidney       NSW           Australia       2010               8.91      
+403         56          2013-11-08 00:00:00  307 Macacha G�  Buenos Aire                Argentina       1106               8.91      
